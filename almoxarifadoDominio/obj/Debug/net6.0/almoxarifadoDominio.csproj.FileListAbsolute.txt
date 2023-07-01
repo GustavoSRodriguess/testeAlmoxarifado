@@ -1,0 +1,48 @@
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.deps.json
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.dll
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.pdb
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.dll
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\refint\almoxarifadoDominio.dll
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.pdb
+C:\Users\pedro\OneDrive\Documents\Projetos\testeSoftware projects\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\ref\almoxarifadoDominio.dll
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.deps.json
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.dll
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.pdb
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.csproj.AssemblyReference.cache
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.AssemblyInfoInputs.cache
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.AssemblyInfo.cs
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.csproj.CoreCompileInputs.cache
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.dll
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\refint\almoxarifadoDominio.dll
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.pdb
+C:\Users\gu.rodrigues\Desktop\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\ref\almoxarifadoDominio.dll
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.deps.json
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.dll
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.pdb
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.csproj.AssemblyReference.cache
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.AssemblyInfoInputs.cache
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.AssemblyInfo.cs
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.csproj.CoreCompileInputs.cache
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.dll
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\refint\almoxarifadoDominio.dll
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.pdb
+C:\Users\gu.rodrigues\Downloads\crudAlmoxarifado\almoxarifado\almoxarifadoDominio\obj\Debug\net6.0\ref\almoxarifadoDominio.dll
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.deps.json
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.dll
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\bin\Debug\net6.0\almoxarifadoDominio.pdb
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.csproj.AssemblyReference.cache
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.AssemblyInfoInputs.cache
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.AssemblyInfo.cs
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.csproj.CoreCompileInputs.cache
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.dll
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\obj\Debug\net6.0\refint\almoxarifadoDominio.dll
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\obj\Debug\net6.0\almoxarifadoDominio.pdb
+D:\DADOS\Desktop\testeAlmoxarifado-main\almoxarifadoDominio\obj\Debug\net6.0\ref\almoxarifadoDominio.dll
